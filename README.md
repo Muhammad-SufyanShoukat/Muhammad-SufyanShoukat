@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Helper Log**
 
-- 🤝 I’m looking for help with **GHSE**
-
 - 📫 How to reach me **muhammadsufyan1520@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
