@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sufyan</h1>
 <h3 align="center">MERN Stack Developer | Full-Stack Enthusiast</h3>
 
----
+
 
 ### 👨‍💻 About Me
 - 💡 Passionate about building scalable web applications  
 - 🤝 Open to collaborating on meaningful open-source and real-world projects  
 - 📫 Reach me at: **muhammadsufyan1520@gmail.com**
 
----
+
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -20,7 +20,6 @@
   </a>
 </p>
 
----
 
 ### 🛠️ Languages and Tools
 <p align="left">
@@ -42,10 +41,4 @@
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.svg" alt="prisma" width="40" height="40"/></a>
 </p>
 
----
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsufyan1520&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsufyan1520&theme=radical" alt="GitHub Streak Stats" />
-</p>
