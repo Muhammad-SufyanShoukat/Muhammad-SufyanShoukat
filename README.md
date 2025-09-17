@@ -1,24 +1,29 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sufyan</h1>
-<h3 align="center">MERN Stack Developer | Full-Stack Enthusiast</h3>
+<h3 align="center">MERN Stack Developer | Software Engineer</h3>
 
 
 
 ### 👨‍💻 About Me
 - 💡 Passionate about building scalable web applications  
 - 🤝 Open to collaborating on meaningful open-source and real-world projects  
+- 🌐 Portfolio: [sufyandev.site](https://sufyandev.site/)  
 - 📫 Reach me at: **muhammadsufyan1520@gmail.com**
 
 
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/muhammad-sufyan12/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/>
   </a>
   <a href="mailto:muhammadsufyan1520@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="40" height="40"/>
   </a>
+  <a href="https://sufyandev.site/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 ### 🛠️ Languages and Tools
@@ -38,7 +43,5 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="websockets" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.svg" alt="prisma" width="40" height="40"/></a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/prisma/presskit/master/Assets/Prisma-DarkSymbol.svg" alt="prisma" width="40" height="40"/></a>
 </p>
-
-
